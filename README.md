@@ -1,1 +1,1 @@
-# SafeR Coordinate Classifier
+# Prototype region classifier for crime data in Delphi
